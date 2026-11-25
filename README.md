@@ -56,7 +56,7 @@ DB_HOST=127.0.0.1
 DB_PORT=5432
 DB_NAME=school_management_db
 DB_USER=postgres
-DB_PASSWORD=Talal
+DB_PASSWORD=newdbs
 ```
 
 ### 2. Install Dependencies
