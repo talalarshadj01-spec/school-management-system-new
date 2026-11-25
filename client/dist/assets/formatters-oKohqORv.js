@@ -1,0 +1,1 @@
+const r=e=>e==null||isNaN(e)?"₨ 0":"₨ "+Number(e).toLocaleString("en-PK",{maximumFractionDigits:0}),n=e=>e?new Date(e).toLocaleDateString("en-GB",{day:"2-digit",month:"short",year:"numeric"}):"-";export{n as a,r as f};
